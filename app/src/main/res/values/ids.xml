@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <item name="already_user" type="id"/>
+    <item name="signUpBtn" type="id"/>
+    <item name="fullName" type="id"/>
+    <item name="userEmailId" type="id"/>
+    <item name="mobileNumber" type="id"/>
+    <item name="location" type="id"/>
+    <item name="password" type="id"/>
+    <item name="confirmPassword" type="id"/>
+    <item name="terms_conditions" type="id"/>
+</resources>
